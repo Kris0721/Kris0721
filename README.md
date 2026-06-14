@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kris0721/Kris0721/name-animation.svg" alt="Krishna Khasge" width="400" />
+<img src="https://raw.githubusercontent.com/Kris0721/Kris0721/main/name-animation.svg" alt="Krishna Khasge" width="400" />
 
 ## **Krishna Khasge**
 #### #kris0721
