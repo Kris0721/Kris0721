@@ -5,7 +5,7 @@
 ## **Krishna Khasge**
 #### #kris0721
 
-[![email](https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish21kk7k@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-khasge-04647528b/)
+[![email](https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakhasge0@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-khasge-04647528b/)
 
 </div>
 
