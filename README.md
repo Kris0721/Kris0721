@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Kris0721/Kris0721/main/assets/name-animation.svg" alt="Krishna Khasge" width="400" />
+
 ## **Krishna Khasge**
 #### #kris0721
 
@@ -18,17 +20,15 @@
 #### Projects
 
 ##### Blockchain & Web3
-
 - [ZTHER](https://github.com/Kris0721/ZTHER): Zero-knowledge based decentralized protocol exploring privacy-preserving on-chain systems.
 - [CDL](https://github.com/Kris0721/CDL): Core distributed/decentralized library powering blockchain infrastructure components.
 
 ##### Risk & Finance
-
 - [Match-risk-engine](https://github.com/Kris0721/Match-risk-engine): Risk matching and assessment engine for financial transaction analysis.
 
-
 <div align="center">
- Languages and Tools
+
+Languages and Tools
 
 <p>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="28" alt="rust"/>
@@ -44,5 +44,7 @@
 #### Top Repositories
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=ZTHER&theme=nord&hide_border=true)](https://github.com/Kris0721/ZTHER) [![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=CDL&theme=nord&hide_border=true)](https://github.com/Kris0721/CDL)
- 
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=Match-risk-engine&theme=nord&hide_border=true)](https://github.com/Kris0721/Match-risk-engine) [![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=rust-debugger&theme=nord&hide_border=true)](https://github.com/Kris0721/rust-debugger)
+
+</div>
