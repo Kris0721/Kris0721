@@ -26,9 +26,7 @@
 
 - [Match-risk-engine](https://github.com/Kris0721/Match-risk-engine): Risk matching and assessment engine for financial transaction analysis.
 
-#### GitHub Stats(Since Account Creation)
 
-[![Kris0721](https://github-readme-stats.vercel.app/api?username=Kris0721&langs_count=4&show_icons=true&locale=en&theme=nord&layout=compact&hide_title=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=Kris0721&langs_count=4&show_icons=true&locale=en&theme=nord&layout=compact&hide_title=true&hide_border=true)
 
 #### Languages and Tools
 
