@@ -1,10 +1,39 @@
-<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="200" y="40" text-anchor="middle" font-family="monospace" font-size="32" font-weight="600" fill="#00D4FF">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="4s" repeatCount="indefinite"/>
-    Kris0721
+<svg width="500" height="60" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
+  <text
+    x="250"
+    y="40"
+    text-anchor="middle"
+    font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
+    font-size="32"
+    font-weight="700"
+    fill="#00D4FF">
+
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0;1"
+      keyTimes="0;0.45;0.5;0.95;1"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    𝕂𝕣𝕚𝕤𝟘𝟟𝟚𝟙
   </text>
-  <text x="200" y="40" text-anchor="middle" font-family="monospace" font-size="32" font-weight="600" fill="#00FF41">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.5;0.95;1" dur="4s" repeatCount="indefinite"/>
-    Krishna
+
+  <text
+    x="250"
+    y="40"
+    text-anchor="middle"
+    font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
+    font-size="32"
+    font-weight="700"
+    fill="#FF4D9D">
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.45;0.5;0.95;1"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    𝕂𝕣𝕚𝕤𝕙𝕟𝕒
   </text>
 </svg>
