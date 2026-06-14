@@ -3,9 +3,8 @@
     x="250"
     y="40"
     text-anchor="middle"
-    font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
+    font-family="'Segoe UI Symbol', 'Noto Sans Math', sans-serif"
     font-size="102"
-    font-weight="700"
     fill="#00D4FF">
 
     <animate
@@ -15,16 +14,15 @@
       dur="4s"
       repeatCount="indefinite"/>
 
-    𝕂𝕣𝕚𝕤𝟘𝟟𝟚𝟙
+    𝙆𝙧𝙞𝙨𝟬𝟳𝟮𝟭
   </text>
 
   <text
     x="250"
     y="40"
     text-anchor="middle"
-    font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
+    font-family="'Segoe UI Symbol', 'Noto Sans Math', sans-serif"
     font-size="102"
-    font-weight="700"
     fill="#00FF88">
 
     <animate
@@ -34,6 +32,6 @@
       dur="4s"
       repeatCount="indefinite"/>
 
-    𝕂𝕣𝕚𝕤𝕙𝕟𝕒
+    𝙆𝙧𝙞𝙨𝙝𝙣𝙖
   </text>
 </svg>
