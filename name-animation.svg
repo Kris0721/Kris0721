@@ -4,7 +4,7 @@
     y="40"
     text-anchor="middle"
     font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
-    font-size="52"
+    font-size="102"
     font-weight="700"
     fill="#00D4FF">
 
@@ -23,7 +23,7 @@
     y="40"
     text-anchor="middle"
     font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
-    font-size="52"
+    font-size="102"
     font-weight="700"
     fill="#00FF88">
 
