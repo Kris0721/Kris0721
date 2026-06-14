@@ -28,10 +28,10 @@
 
 
 <div align="center">
-#### Languages and Tools
+ Languages and Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="28" height="28" alt="rust"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="28" alt="rust"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="28" height="28" alt="solidity"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="cplusplus"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="python"/>
