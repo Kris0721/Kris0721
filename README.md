@@ -8,8 +8,7 @@
 </div>
 
 - I am Krishna Khasge.
-- Rustacean. Rust is my favorite language. Solidity is the language I'm exploring for Web3.
-- I am interested in blockchain infrastructure, distributed systems, and AI development.
+- I am interested in blockchain infrastructure, distributed systems, and ZK development.
 - What am I working on?
   * Blockchain Infra.
   * System Architecture
