@@ -1,7 +1,7 @@
 <svg width="500" height="60" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
   <text
-    x="250"
-    y="40"
+    x="350"
+    y="60"
     text-anchor="middle"
     font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
     font-size="32"
@@ -19,8 +19,8 @@
   </text>
 
   <text
-    x="250"
-    y="40"
+    x="350"
+    y="60"
     text-anchor="middle"
     font-family="'Noto Sans Math', 'Segoe UI Symbol', sans-serif"
     font-size="32"
