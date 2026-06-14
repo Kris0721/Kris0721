@@ -43,6 +43,6 @@
 
 #### Top Repositories
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=ZTHER&theme=nord&hide_border=true)](https://github.com/Kris0721/ZTHER) [![][![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=CDL&theme=nord&hide_border=true)](https://github.com/Kris0721/CDL)[]!]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=ZTHER&theme=nord&hide_border=true)](https://github.com/Kris0721/ZTHER) [![][(https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=CDL&theme=nord&hide_border=true)](https://github.com/Kris0721/CDL)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=rust-debugger&theme=nord&hide_border=true)](https://github.com/Kris0721/rust-debugger)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=Match-risk-engine&theme=nord&hide_border=true)](https://github.com/Kris0721/Match-risk-engine)[]!]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kris0721&repo=Match-risk-engine&theme=nord&hide_border=true)](https://github.com/Kris0721/Match-risk-engine)
