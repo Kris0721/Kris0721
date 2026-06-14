@@ -12,7 +12,7 @@
 - I am Krishna Khasge.
 - I am interested in blockchain infrastructure, distributed systems, and ZK development.
 - What am I working on?
-  * Blockchain Infra.
+  * Blockchain Infrastructure
   * System Architecture
   * Web3
   * Zero Knowledge Systems
